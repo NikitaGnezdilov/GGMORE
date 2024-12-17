@@ -25,11 +25,25 @@
   .header_tittle {
     font-size: 24px;
     font-weight: bold;
+    margin-bottom: 35px;
+    font-size: 25px;
   }
   .tittle {
     margin-top: 10px;
     font-size: 16px;
+    margin-bottom: 83px;
   }
 
+  .button{
+    display: flex;
+    width: 218px;
+    height: 47px;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow:#FFFFFF ;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: none;
+  }
   
 
